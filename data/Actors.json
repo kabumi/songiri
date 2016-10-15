@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Actor4_1","characterIndex":0,"characterName":"otu_kabumi","classId":5,"equips":[10,0,0,10,0],"faceIndex":0,"faceName":"son_menu_l_face_p01","traits":[],"initialLevel":1,"maxLevel":99,"name":"かぶみ","nickname":"買ったら底抜け","note":"\n","profile":"損切りじょーとー！"},
+{"id":6,"battlerName":"Actor4_2","characterIndex":0,"characterName":"otu_gosenzo","classId":6,"equips":[11,0,0,11,0],"faceIndex":1,"faceName":"son_menu_l_face_p01","traits":[],"initialLevel":1,"maxLevel":99,"name":"ご先祖様","nickname":"むげんの胃袋","note":"","profile":"いつも腹ペコ！"},
+{"id":7,"battlerName":"Actor4_3","characterIndex":0,"characterName":"otu_puu","classId":7,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"son_menu_l_face_p01","traits":[],"initialLevel":1,"maxLevel":99,"name":"ぷーちゃん","nickname":"電気がごはん","note":"","profile":"ストラテジーは眠らない！"},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
